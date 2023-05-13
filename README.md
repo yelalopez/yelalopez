@@ -7,8 +7,6 @@
 - HTML
 - CSS
 - JavaScript
-- Java
-- Phyton
 - VSC
 - Adobe Illustrator
 - Adobe Photoshop
