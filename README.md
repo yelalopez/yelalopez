@@ -19,17 +19,9 @@ Hello! 👋 I'm Yelitza Lopez, a passionate Full Stack Developer. Welcome to my 
 - Java Spring
 - SQL
 
-## 📚 Featured Repositories
-
-1. [Repository Name](https://github.com/your-username/repo-name)
-   - Description of the repository.
-
-2. [Another Repo](https://github.com/your-username/another-repo)
-   - Description of another repository.
-
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yelalopez&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
