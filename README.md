@@ -1,18 +1,41 @@
-<h2>Hi, I´m Yela López</h2>
+# Yelitza López
 
-Graphic Designer and Front-End Developer
 
-### A little more about me
-```javascript
-const yela = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Jest],
-  adobe: ["illustrator", "photoshop"],
-}
-```
-[![Linkedin: yelitza-lopez](https://img.shields.io/badge/-yelalopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yelitza-lopez/)](https://www.linkedin.com/in/yelitza-lopez/)
-[![GitHub yelalopez](https://img.shields.io/github/followers/yelalopez?label=follow&style=social)](https://github.com/yelalopez)
+[![GitHub followers](https://img.shields.io/github/followers/yelalopez?style=social)](https://github.com/yelalopez)
+[![LinkedIn](https://img.shields.io/badge/yelitza-lopez)](https://www.linkedin.com/in/yelitza-lopez/)
 
+Hello! 👋 I'm Yelitza Lopez, a passionate Full Stack Developer. Welcome to my GitHub profile!
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🌱 Currently Learning
+
+- Java
+- Java Spring
+- SQL
+
+## 📚 Featured Repositories
+
+1. [Repository Name](https://github.com/your-username/repo-name)
+   - Description of the repository.
+
+2. [Another Repo](https://github.com/your-username/another-repo)
+   - Description of another repository.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- LinkedIn: [yelitza-lopez](https://www.linkedin.com/in/yelitza-lopez/)
+- Email: yelitzalopezduque@gmail.com
+
+Feel free to explore my repositories and connect with me. Happy coding!
 
 ---
