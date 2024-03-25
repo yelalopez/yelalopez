@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/yelitza-lopez)](https://www.linkedin.com/in/yelitza-lopez/)
 
-## My name is Yelitza Lopez, a passionate Full Stack Developer. Welcome to my GitHub profile!
+## My name is Yelitza Lopez, a passionate Backend Developer. Welcome to my GitHub profile!
 
 (Java | Spring Boot | JavaScript | HTML | CSS) 🚀
  
